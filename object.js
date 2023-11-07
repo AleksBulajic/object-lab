@@ -76,6 +76,8 @@ const album6 = {
 };
 
 // Exercise 7:  Assign album6's formats array to a variable named formats
+let formats = album6.albumDetails.formats
+console.log(formats)
 
 const album7 = {
   title: "Naked",
